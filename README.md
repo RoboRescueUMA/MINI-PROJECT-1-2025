@@ -30,9 +30,6 @@ Para entregar el proyecto se deberá crear un repositorio donde esté:
 * Paquete de ROS2 con el código 
 * Vídeo demostrando su funcionamiento
 
-## IDEA DEL PROYECTO
-El objetivo de este proyecto es que los participantes aprendan los fundamentos de la programación de robots móviles con Linux y ROS2, además de otroS softwareS como Git, C++, Python... Una manera sencilla de simular un robot móvil es usando la tortuga del paquete *turtlesim*. Esta tortuga está creada para que los nuevos en este mundo de la robótica aprendan los conceptos básicos de ROS (Robot Operating System), es por eso que, creando este concurso, añadimos un toque divertido y entretenido al hecho de aprender esta forma tan extendida de programar robots.
-
 ## QUIÉN PUEDE PARTICIPAR
 Cualquier persona interesada en aprender sobre robótica puede participar en el concurso.
 
@@ -42,6 +39,9 @@ Cualquier persona interesada en aprender sobre robótica puede participar en el 
 * ROS2 Humble
 * C++/Python
 * Entorno de programación. Por ejemplo, VSCode.
+
+## IDEA DEL PROYECTO
+El objetivo de este proyecto es que los participantes aprendan los fundamentos de la programación de robots móviles con Linux y ROS2, además de otroS softwareS como Git, C++, Python... Una manera sencilla de simular un robot móvil es usando la tortuga del paquete *turtlesim*. Esta tortuga está creada para que los nuevos en este mundo de la robótica aprendan los conceptos básicos de ROS (Robot Operating System), es por eso que, creando este concurso, añadimos un toque divertido y entretenido al hecho de aprender esta forma tan extendida de programar robots.
 
 ## REFERENCIAS
 
