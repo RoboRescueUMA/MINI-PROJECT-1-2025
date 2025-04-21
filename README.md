@@ -47,6 +47,7 @@ El objetivo de este proyecto es que los participantes aprendan los fundamentos d
 
 * [Simulación tortuga](https://medium.com/@anjitagargi/getting-start-with-ros2-turtlesim-bcb328ff804e)
 * [uma_environment](https://github.com/jmgandarias/uma_environment_tools)
+* [LeetCode](https://leetcode.com/): es una página donde puedes resolver problemas en una gran variedad de lenguajes. Si necesitas pulir tus habilidades de *Programación Orientada a Objetos*, es un lugar recomendable para practicar.
 
 
 ## GLOSARIO
